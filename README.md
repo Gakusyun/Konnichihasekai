@@ -12,3 +12,4 @@
 こんにちは、世界！で、僕は日本語が下手です。
 ## en
 Hello　World! Let me study It well.
+ <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1483367552&website=www.oicqzone.com">点击添加我的QQ为好友</a> 
