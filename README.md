@@ -11,6 +11,6 @@
 ## jp
 こんにちは、世界！で、僕は日本語が下手です。
 ## en
-Hello　World! Let me study It well.
+Hello World! Let me study It well.
 
 点击[1483367552](https://qm.qq.com/cgi-bin/qm/qr?k=FwjMEBmDbu_7ZeLtSCRMXSBSNpeg0okt&noverify=0&personal_qrcode_source=4)添加QQ好友
