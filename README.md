@@ -1,4 +1,9 @@
 # 今日は、世界！
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Gakusyun/Konnichihasekai&type=Date)](https://star-history.com/#Gakusyun/Konnichihasekai&Date)
+
 [中文](##zh)
 
 [日本語](##jp)
